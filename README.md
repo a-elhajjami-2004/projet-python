@@ -1,2 +1,5 @@
-# projet-python
-Projet Python: Plateforme de Surveillance et d'Analyse des Réseaux Sociaux
+# Projet Python
+
+Par: **Adam El Hajjami** et **Yassir El Katali**
+
+Plateforme de Surveillance et d'Analyse des Réseaux Sociaux
